@@ -1,0 +1,13 @@
+body{
+    background-size: cover;
+}
+.header{
+    width: 100%;
+    font-size: 20px;
+    margin: 0;
+}
+canvas{
+    border-radius: 10px;
+    background-color: red;
+    box-shadow: 7px 7px 7px white;
+}
